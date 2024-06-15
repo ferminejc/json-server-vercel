@@ -19,9 +19,21 @@
       "status": "Pending"
     },
     {
-      "id": "204d",
-      "name": "Client Interview Exam",
+      "id": "205d",
+      "name": "Client Interview",
       "date": "2024-06-25",
+      "status": "Pending"
+    },
+    {
+      "id": "205d",
+      "name": "Final Interview",
+      "date": "2024-06-29",
+      "status": "Pending"
+    },
+        {
+      "id": "206d",
+      "name": "Onboarding",
+      "date": "2024-07-01",
       "status": "Pending"
     }
   ]
