@@ -1,4 +1,10 @@
 {
-  
-  "appointments": []
+  "appointments": [
+    {
+      "id": "202d",
+      "name": "est",
+      "date": "1996-01-31",
+      "status": "Completed"
+    }
+  ]
 }
